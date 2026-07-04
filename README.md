@@ -1,16 +1,33 @@
-## Hi there 👋
+Alan Binu
 
-<!--
-**alanbinu/alanbinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | Power BI | SQL | Python | Machine Learning
 
-Here are some ideas to get you started:
+👋 Hi there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning raw data into insights that help businesses make better decisions.
+
+Tech Stack
+
+Power BI
+
+Python
+
+SQL
+
+Machine Learning
+
+Featured Projects
+
+Telecom Customer Churn Prediction
+
+Credit Card Portfolio Analytics
+
+GitHub Stats
+
+Contribution Graph
+
+Let's Connect
+
+LinkedIn
+
+Email
