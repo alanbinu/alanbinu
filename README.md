@@ -1,6 +1,6 @@
-Alan Binu
+# Hi 👋, I'm Alan Binu
 
-Aspiring Data Analyst | Power BI | SQL | Python | Machine Learning
+### Aspiring Data Analyst | Power BI | SQL | Python | Machine Learning
 
 👋 Hi there!
 
