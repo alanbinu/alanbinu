@@ -4,8 +4,7 @@
 
 I'm passionate about transforming raw data into meaningful insights that help businesses make smarter, data driven decisions.
 
-Currently transitioning from Customer Service to Data Analytics by building real world analytics and machine learning projects.
-
+Building end to end Data Analytics and Machine Learning projects using Power BI, SQL, Python, and modern analytics tools.
 ---
 
 ## 🚀 About Me
