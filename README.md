@@ -298,7 +298,6 @@ natively on your profile page below this README, so the extra widget was pure du
   <img alt="contribution snake" src="https://raw.githubusercontent.com/alanbinu/alanbinu/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<sub>⚠️ This animates only after the GitHub Action below runs in your `alanbinu/alanbinu` repo — it will not render until then.</sub>
 
 </div>
 
