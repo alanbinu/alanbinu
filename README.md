@@ -191,7 +191,7 @@ if you.need(analyst) and
 
 ### 📉 Telecom Customer Churn Prediction
 
-**Status:** 🚧 In Progress &nbsp;|&nbsp; **Accuracy:** 86.77%
+**Status:** ✅ Complete &nbsp;|&nbsp; **Accuracy:** 86.77%
 
 Built an end-to-end churn classification pipeline: EDA, feature engineering, and a tuned Random Forest model, deployed as an interactive Streamlit app.
 
@@ -215,7 +215,7 @@ Built an end-to-end churn classification pipeline: EDA, feature engineering, and
 
 ### 💳 Credit Card Portfolio Analytics
 
-**Status:** 🚧 In Progress &nbsp;|&nbsp; **Type:** Executive BI Dashboard
+**Status:** ✅ Complete &nbsp;|&nbsp; **Type:** Executive BI Dashboard
 
 Designed a credit risk and customer segmentation dashboard on a star-schema banking dataset, with advanced DAX for delinquency and risk measures.
 
@@ -266,11 +266,22 @@ Designed a credit risk and customer segmentation dashboard on a star-schema bank
 
 <img src="https://streak-stats.demolab.com?user=alanbinu&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=C9D1D9" width="60%" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alanbinu&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=ffffff" width="90%" />
-
 </div>
+
+<!--
+MAINTENANCE NOTE:
+The public github-readme-stats.vercel.app instance is officially "best effort" and has
+documented rate-limit/downtime issues (maintainer discussion #4748, issues #4680/#4658/#4662).
+If these cards start showing "Something went wrong" instead of your stats, that's the known
+failure mode — not a mistake in this markdown. Fix options, in order of effort:
+  1. Add &cache_seconds=86400 to each URL to reduce refresh frequency.
+  2. Fork anuraghazra/github-readme-stats and deploy your own free Vercel instance.
+  3. Switch to the GitHub Actions static-SVG workflow (no live endpoint, zero downtime risk).
+The activity-graph widget was removed here — GitHub already renders your contribution graph
+natively on your profile page below this README, so the extra widget was pure duplication.
+-->
+
+<br/>
 
 <br/>
 
@@ -287,32 +298,7 @@ Designed a credit risk and customer segmentation dashboard on a star-schema bank
   <img alt="contribution snake" src="https://raw.githubusercontent.com/alanbinu/alanbinu/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://img.shields.io/badge/-GitHub_Trophies-0f172a?style=for-the-badge" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=alanbinu&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"
-    alt="GitHub Trophies"
-    width="90%"
-  />
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/alanbinu?label=Followers&style=for-the-badge&color=6D28D9&labelColor=0f172a" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=alanbinu&label=Profile+Views&style=for-the-badge&color=3B82F6&labelColor=0f172a" />
+<sub>⚠️ This animates only after the GitHub Action below runs in your `alanbinu/alanbinu` repo — it will not render until then.</sub>
 
 </div>
 
