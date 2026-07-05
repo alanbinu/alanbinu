@@ -1,95 +1,111 @@
-# Hi 👋 I'm Alan Binu
+# Hi 👋, I'm Alan Binu
 
-### 📊 Aspiring Data Analyst | 📈 Power BI Developer | 🐍 Python | 🗄 SQL | 🤖 Machine Learning Enthusiast
+### 📊 Aspiring Data Analyst 
+### 📈 Power BI Developer 
+### 🐍 Python Developer
+### 🗄️ SQL 
+### 🤖 Machine Learning Enthusiast
 
-I'm passionate about transforming raw data into meaningful insights that help businesses make smarter, data driven decisions.
+> Turning raw data into meaningful insights through analytics, visualization, and machine learning.
 
-Building end to end Data Analytics and Machine Learning projects using Power BI, SQL, Python, and modern analytics tools.
+I enjoy solving business problems using data. My focus is on building end to end analytics projects that combine **Power BI, SQL, Python, and Machine Learning** to create actionable business insights.
+
 ---
 
 ## 🚀 About Me
 
-- 📍 Based in Kochi, Kerala, India
-- 🎯 Actively seeking opportunities in Data Analytics & Business Intelligence
-- 🌱 Currently learning Advanced Machine Learning, NLP, and Data Visualization
-- 💡 Passionate about solving business problems using data
-- 📚 Continuously improving my skills through hands on projects
+- 📍 Kochi, Kerala, India
+- 💼 Open to Data Analyst, Business Intelligence, and Power BI opportunities
+- 🌱 Currently learning Advanced Machine Learning, NLP, and Deep Learning
+- 📊 Passionate about data visualization, predictive analytics, and business intelligence
+- 🎯 Goal: Build impactful analytics solutions that drive better business decisions
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Technical Skills
 
-**Programming**
+### 📊 Data Analytics
+Power BI • Excel • Pandas • NumPy
 
-🐍 Python • 🗄 SQL
+### 🐍 Programming
+Python • SQL
 
-**Data Analytics**
+### 🤖 Machine Learning
+Scikit Learn • Matplotlib • Classification • Regression • Feature Engineering
 
-📊 Power BI • 📈 Excel • 📉 Pandas • NumPy
-
-**Machine Learning**
-
-🤖 Scikit Learn • Matplotlib • Machine Learning
-
-**Tools**
-
-💻 Git • GitHub • VS Code • Google Colab • Jupyter Notebook
+### 💻 Tools
+Git • GitHub • VS Code • Google Colab • Jupyter Notebook
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Projects
 
-### 📊 Telecom Customer Churn Prediction
+## 📊 Telecom Customer Churn Prediction
 
-Developed a Machine Learning model to predict customer churn using real world telecom data.
+Machine Learning model developed to identify customers likely to churn and help businesses improve customer retention.
 
-**Highlights**
+### Highlights
 
-- ✅ 86.77% Random Forest Accuracy
-- 📊 Exploratory Data Analysis
-- ⚙️ Feature Engineering
-- 🤖 Multiple ML Models
-- 📈 Model Evaluation
-- 📑 Business Insights
+✔ Random Forest Accuracy: **86.77%**
+
+✔ Complete Data Cleaning Pipeline
+
+✔ Exploratory Data Analysis
+
+✔ Feature Engineering
+
+✔ Multiple Classification Models
+
+✔ Feature Importance Analysis
+
+✔ Business Recommendations
 
 ---
 
-### 💳 Credit Card Portfolio Analytics
+## 💳 Credit Card Portfolio Analytics
 
-Designed an interactive Power BI dashboard to analyze customer spending behavior and portfolio risk.
+Interactive Power BI dashboard providing portfolio performance, customer segmentation, spending behavior, and credit risk insights.
 
-**Highlights**
+### Highlights
 
-- 📈 Executive Dashboard
-- 📊 DAX Measures
-- 📉 Customer Segmentation
-- 💳 Credit Risk Analytics
-- 📌 KPI Tracking
-- 🎯 Business Intelligence Reporting
+✔ Executive Dashboard
+
+✔ Advanced DAX Measures
+
+✔ KPI Tracking
+
+✔ Customer Segmentation
+
+✔ Credit Risk Analysis
+
+✔ Interactive Business Dashboard
 
 ---
 
 ## 📚 Currently Working On
 
-- 🚀 Advanced Power BI Dashboards
-- 🤖 Machine Learning Projects
+- 🚀 End to End Power BI Projects
+- 🤖 Machine Learning Portfolio
 - 🧠 Natural Language Processing
-- 🗄 SQL Business Case Studies
-- 🌐 Portfolio Website
+- 📈 SQL Business Case Studies
+- 🌐 Personal Portfolio Website
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Career Goal
 
-My goal is to build impactful analytics solutions that enable organizations to make smarter, data driven decisions while continuously expanding my expertise in Business Intelligence and Machine Learning.
+I aim to build scalable analytics solutions that transform complex datasets into actionable business insights while continuously improving my expertise in Data Analytics, Business Intelligence, and Machine Learning.
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn  
+https://www.linkedin.com/in/alan-binu13
+
+📧 Email  
+alanbinu306@gmail.com
 
 ---
 
-## 📫 Let's Connect
-
-💼 LinkedIn: https://www.linkedin.com/in/alan-binu13
-
-📧 Email: alanbinu306@gmail.com
-
----
-⭐ Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
