@@ -299,7 +299,11 @@ Designed a credit risk and customer segmentation dashboard on a star-schema bank
 <br/>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alanbinu&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" width="90%" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=alanbinu&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"
+    alt="GitHub Trophies"
+    width="90%"
+  />
 </div>
 
 <br/>
