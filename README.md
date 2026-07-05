@@ -3,7 +3,7 @@
 ### 📊 Aspiring Data Analyst 
 ### 📈 Power BI Developer 
 ### 🐍 Python Developer
-### 🗄️ SQL 
+### 🗄️ SQL Developer
 ### 🤖 Machine Learning Enthusiast
 
 > Turning raw data into meaningful insights through analytics, visualization, and machine learning.
