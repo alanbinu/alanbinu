@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Data+Analytics+%7C+Business+Intelligence+%7C+Machine+Learning;Turning+raw+data+into+decisions+that+matter;Power+BI+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+Scikit-Learn;Ex-Customer+Service+%E2%80%94+Now+Building+in+Data" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=650&lines=Data+Analytics+%7C+Business+Intelligence+%7C+Machine+Learning;Turning+raw+data+into+decisions+that+matter;Power+BI+%E2%80%A2+Python+%E2%80%A2+SQL+%E2%80%A2+Scikit-Learn;Ex-Customer+Service+%E2%80%94+Now+Building+in+Data" alt="Typing SVG" />
 
 </div>
 
@@ -391,7 +391,7 @@ natively on your profile page below this README, so the extra widget was pure du
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0f172a&height=100&section=footer" width="100%"/>
 
 <sub>© Alan Binu — Built with intent, not templates.</sub>
 
