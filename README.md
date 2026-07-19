@@ -378,21 +378,40 @@ natively on your profile page below this README, so the extra widget was pure du
 <a href="https://www.linkedin.com/in/alan-binu13">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:alanbinu306@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-</div>
-
-<br/>
+<br><br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0f172a&height=100&section=footer" width="100%"/>
+<h2>Thanks for visiting my GitHub! ❤️</h2>
 
-<sub>© Alan Binu — Built with intent, not templates.</sub>
+<p>
+<i>"Transforming raw data into meaningful insights, one project at a time."</i>
+</p>
+
+<p>
+⭐ If you enjoyed exploring my projects, consider starring a repository.
+</p>
+
+<p>
+<sub>Made with ❤️, ☕ and curiosity by <b>Alan Binu</b></sub>
+</p>
+
+<p>
+<sub><i>Always learning • Always building • Always improving 🚀</i></sub>
+</p>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:1e3a8a,70:2563eb,100:1d4ed8&height=120&section=footer"
+width="100%"
+/>
 
 </div>
