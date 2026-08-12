@@ -1,15 +1,54 @@
+name: Generate Profile Stats
 
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#1a1b27" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#1a1b27" stroke="#e4e2e2"/>
-    <text x="25" y="45" class="text">Something went wrong!</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Downtime due to GitHub API rate limiting</tspan>
-      <tspan x="25" dy="18" class="gray">You can deploy own instance or wait until public will be no longer limited</tspan>
-    </text>
-    </svg>
-  
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create profile folder
+        run: mkdir -p profile
+
+      - name: Generate GitHub stats
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=alanbinu&show_icons=true&theme=tokyonight&hide_border=true
+          path: profile/stats.svg
+          token: ${{ secrets.PAT_1 }}
+
+      - name: Generate top languages
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=alanbinu&layout=compact&theme=tokyonight&hide_border=true
+          path: profile/top-langs.svg
+          token: ${{ secrets.PAT_1 }}
+
+      - name: Generate streak stats
+        continue-on-error: true
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=alanbinu&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=C9D1D9
+          path: profile/streak.svg
+          token: ${{ secrets.PAT_1 }}
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/
+          git commit -m "chore: update profile stats" || exit 0
+          git push
