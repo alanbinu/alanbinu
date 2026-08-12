@@ -1,8 +1,9 @@
-
 name: Generate Profile Stats
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
 
 permissions:
   contents: write
@@ -27,12 +28,19 @@ jobs:
           token: ${{ secrets.PAT_1 }}
 
       - name: Generate top languages
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true
+          options: username=alanbinu&layout=compact&theme=tokyonight&hide_border=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT_1 }}
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=alanbinu&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=C9D1D9
+          path: profile/streak.svg
+          token: ${{ secrets.PAT_1 }}
 
       - name: Commit generated files
         run: |
