@@ -261,8 +261,9 @@ Designed a credit risk and customer segmentation dashboard on a star-schema bank
 <div align="center">
 
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=alanbinu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanbinu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=alanbinu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=C9D1D9" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanbinu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" width="48%" />
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=alanbinu&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=C9D1D9" width="60%" />
