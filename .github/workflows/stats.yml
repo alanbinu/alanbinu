@@ -19,7 +19,7 @@ jobs:
         run: mkdir -p profile
 
       - name: Generate GitHub stats
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=alanbinu&show_icons=true&theme=tokyonight&hide_border=true
