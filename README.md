@@ -10,7 +10,7 @@
 <a href="mailto:alanbinu306@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="#">
+<a href="./Resume.pdf">
   <img src="https://img.shields.io/badge/Resume-Download-1E293B?style=for-the-badge&logo=readdotcv&logoColor=white" />
 </a>
 
