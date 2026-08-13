@@ -40,7 +40,7 @@ jobs:
         with:
           options: user=alanbinu&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=C9D1D9
           path: profile/streak.svg
-          token: ${{ secrets.PAT_1 }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated files
         run: |
